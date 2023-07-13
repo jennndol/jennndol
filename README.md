@@ -4,6 +4,4 @@ Now in industry, this passion remains with me. There's undoubtedly yet more to l
 
 Hi, I am Luthfi, an experienced Software Engineer with a strong IT background. I have been through many experiences in working as an individual or with a team. 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jennndol&theme=radical&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennndol&hide=TeX&layout=compact&theme=radical)
