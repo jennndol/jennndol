@@ -18,7 +18,7 @@ Ever since I was in senior high school, software development has been my passion
 
 Now in the industry, this passion remains with me. There's undoubtedly yet more to learn, problems to solve, and more to build. And for this, I am very grateful.
 
-Hi, I'm Luthfi, I'm an experienced **Software Engineer** with a strong IT background, having worked both individually and collaboratively with teams to deliver high-quality solutions.
+Hi, I'm Luthfi. I'm an experienced **Software Engineer** with a strong IT background, having worked both individually and collaboratively with teams to deliver high-quality solutions.
 
 ---
 
