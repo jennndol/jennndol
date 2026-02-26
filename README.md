@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jkt-luthfi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jennndol)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jkt.luthfi@gmail.com)
 
 </div>
 
@@ -18,7 +18,7 @@ Ever since I was in senior high school, software development has been my passion
 
 Now in the industry, this passion remains with me. There's undoubtedly yet more to learn, problems to solve, and more to build. And for this, I am very grateful.
 
-I'm an experienced **Software Engineer** with a strong IT background, having worked both individually and collaboratively with teams to deliver high-quality solutions.
+Hi, I'm Luthfi, I'm an experienced **Software Engineer** with a strong IT background, having worked both individually and collaboratively with teams to deliver high-quality solutions.
 
 ---
 
